@@ -223,3 +223,8 @@ Test Suite Completed.
 - Layer merging and path resolution
 - Filesystem metadata handling
 - Hash tables for whiteout tracking (using uthash)
+
+### Collaborators
+- [PES2UG23CS172](https://github.com/PES2UG23CS172)
+- [PES2UG23CS178](https://github.com/pes2ug23cs178)
+- [PES2UG23CS187-Eshwar](https://github.com/PES2UG23CS187-Eshwar)
